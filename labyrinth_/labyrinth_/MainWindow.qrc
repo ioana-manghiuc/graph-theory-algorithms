@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>input_matrix.txt</file>
+    </qresource>
+</RCC>
