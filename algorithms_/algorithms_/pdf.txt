@@ -1,0 +1,5 @@
+connected components: 1
+t1: 0 0 0 0 0 0 0 1 
+t2: 0 0 0 0 0 0 0 2 
+predecessors: 0 0 0 0 0 0 0 0 
+visited: 0 0 0 0 0 0 0 2 
